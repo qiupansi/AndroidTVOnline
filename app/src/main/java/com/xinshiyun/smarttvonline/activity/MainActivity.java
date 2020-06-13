@@ -16,6 +16,8 @@ import com.xinshiyun.smarttvonline.activity.viewpager.ViewPagerActivity;
 
 /**
  * 首页
+ * 更多TV开发资源(如桌面，直播，教育，应用市场，文件管理器，设置，酒店应用等)，添加微信交流：qiupansi
+If you want more TV resource development,such as TvLauncher,TvLive,TvAppStore,TvSettings,TvFileManager,TvEducation,TvHotel,TvMusic,TvRemote and so on，Add me wechat：qiupansi
  */
 public class MainActivity extends AppCompatActivity {
 
